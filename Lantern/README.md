@@ -1,5 +1,7 @@
 # Lantern — seasonal swap-out panels
 
+![Printed lantern lit with a tea light, showing the falling-leaves and pumpkin pie Thanksgiving panels](photos/lantern_thanksgiving_lit.jpg)
+
 All panels are **77.5 × 105 × 1.8 mm**, sized for the measured **78 mm** panel slots
 (0.5 mm total width clearance). Solid backlit style: continuous 0.7 mm cream backing
 (no through-holes), 1.1 mm amber details, 1.8 mm dark silhouettes, border and rails.
