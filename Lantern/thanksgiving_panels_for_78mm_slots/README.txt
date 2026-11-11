@@ -1,6 +1,6 @@
 THANKSGIVING LANTERN PANELS — FOR THE USER-SPECIFIED 78 mm SLOT SPAN
 
-Five panels: turkey, cornucopia, pumpkin, falling leaves, pilgrim hat, pumpkin pie.
+Six panels: turkey, cornucopia, pumpkin, falling leaves, pilgrim hat, pumpkin pie.
 Each panel is 77.5 mm wide x 105 mm high x 1.8 mm maximum thickness.
 77.5 mm allows 0.5 mm total nominal width clearance within the specified 78 mm span.
 

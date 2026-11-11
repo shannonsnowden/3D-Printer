@@ -1,0 +1,10 @@
+{
+  "panel_px": [1086, 1471],
+  "panel_mm": [77.5, 105.0, 1.8],
+  "px_per_mm": {"x": 14.0129, "y": 14.0095},
+  "origin": "pixel (0,0) = top-left corner of the panel outline (same convention as Christmas v6)",
+  "mesh_from_px": "X_mm = x/14.0129 ; Y_mm = 105 - y/14.0095 (image y points down)",
+  "svg_units": "SVG viewBox 0 0 1086 1471 = panel pixels (1 unit = 1 px)",
+  "interior_cream_window_px": {"x": [54, 1032], "y": [58, 1412], "note": "rounded inner corners; exact frame = vectors/panel_frame_mask.png (copied from Christmas v6 template)"},
+  "thickness_classes": {"0": "cream 0.7 mm (192,180,120)", "127": "amber 1.1 mm (168,96,36)", "254": "dark 1.8 mm (48,24,0)"}
+}
