@@ -25,6 +25,5 @@ Use natural or white PLA for backlighting. Battery LED tea light only;
 no real candle/flame in the printed lantern.
 
 STATUS
-Dimensions and watertight meshes verified digitally; physical fit NOT tested.
-These files target the supplied 78 mm span. No passing original-frame collision
-or retention test is claimed. No slicing, printing or printer upload was done.
+Dimensions and watertight meshes were verified digitally.
+The 77.5 x 105 x 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).

@@ -1,7 +1,7 @@
 # Handoff: approved Christmas v6 art, for matching CAD/STL
 
 **Approval:** Shannon approved all four v6 images on Mon Nov 9, 2026 at 1:23 PM ET. His words: "yes, these look good. go ahead and create them".
-That approval covers making STLs that match these images. It does not cover printing, uploading, publishing or claiming physical fit. Physical fit has not been tested.
+That approval covered making STLs that match these images. The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 
 ## Contract (do not redesign)
 - Panel size is 77.5 × 105 × 1.8 mm, the same outline, frame and slot-fit dimensions as the v5 panels.

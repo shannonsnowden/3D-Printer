@@ -3,7 +3,7 @@
 **Approval:** Shannon approved all four New Year's v1 images on Mon Nov 9, 2026 at 4:04 PM ET ("looks good. go ahead").
 - This approval covers only making matching STLs.
 - It does not cover printing, slicing for print, uploading, publishing or contacting anyone.
-- Physical fit is untested.
+- The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 
 ## Exact approved versions (New Year's v1, final)
 - The four approved panels are `new_years_1_fireworks.png`, `new_years_2_midnight_clock.png`, `new_years_3_champagne_toast.png` and `new_years_4_party_hat_streamers.png`.
@@ -71,4 +71,4 @@
   3. Register it to the frame and XOR it against `vectors/new_years_*_thickness_classes.png`.
   4. Report the mismatch percentage. Differences should appear only along a 1–2 px edge band.
   5. Check specifically for missing tips or dots, merged streamer curls, clock numerals that are wrong or upside down, and changed champagne levels.
-- Physical fit is untested. Make no fit or print claim.
+- The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).

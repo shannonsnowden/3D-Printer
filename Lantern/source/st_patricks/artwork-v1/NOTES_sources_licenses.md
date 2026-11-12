@@ -1,5 +1,5 @@
 # St Patrick's Day lantern panels v1: IMAGES FOR APPROVAL, NO STL
-These are 2D artwork only. No STL, CAD, repo change, ZIP, cloud agent, upload, print or contact. The backlighting is simulated, with each colour simply standing for a thickness. Physical fit is untested.
+These are 2D artwork only. The backlighting is simulated, with each colour simply standing for a thickness. The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 
 Started on Shannon's "do it" (Nov 10, 2026, 4:42 PM ET). Every earlier holiday folder is unchanged.
 

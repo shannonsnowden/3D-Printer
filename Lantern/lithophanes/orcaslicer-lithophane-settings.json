@@ -8,7 +8,7 @@
   "orientation": "Print flat with the back down (relief facing up).",
   "notes": [
     "Official OrcaSlicer process profiles spell the printer as 'K1Max' (no space) in the process name, and 'K1 Max' in the printer name.",
-    "Physical fit of photo lithophanes in the lantern is untested.",
+    "The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).",
     "Printing vertically can give a better-looking image but may change the frame thickness by about 0.05\u20130.1 mm.",
     "Complete flattened project settings are stored inside the 3MF at Metadata/project_settings.config."
   ],

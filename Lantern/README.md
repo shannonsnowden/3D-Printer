@@ -6,9 +6,7 @@ All panels are **77.5 × 105 × 1.8 mm**, sized for the measured **78 mm** panel
 (0.5 mm total width clearance). Solid backlit style: continuous 0.7 mm cream backing
 (no through-holes), 1.1 mm amber details, 1.8 mm dark silhouettes, border and rails.
 
-> **Physical fit is untested.** Dimensions and watertight single-body meshes were verified
-> digitally only. Print one panel (or `thanksgiving_panels_for_78mm_slots/diagnostic_fit_strip_77p5x8mm.stl`)
-> first and confirm it slides into a 78 mm slot before printing the rest. Do not force it.
+> The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026). Dimensions and watertight single-body meshes were also verified digitally.
 
 Print flat, relief/rails facing up, 100% scale, no supports, natural/white PLA.
 Battery LED tea light only.
@@ -34,7 +32,7 @@ It is a simulation from the STL thickness, not a photo of a print.
 
 Photo lithophane panels use the same **77.5 × 105 mm** lantern slots. An OrcaSlicer print-settings template is in [`lithophanes/`](lithophanes/README.md). Open `orcaslicer-lithophane-settings.3mf`, delete the placeholder object if there is one, import a lithophane `.stl`, lay it flat with the back down, and slice with the project / Global settings.
 
-Physical fit of the photo lithophanes is untested. Printing vertically can improve image quality but may change the frame thickness slightly.
+The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026). Printing vertically can improve image quality but may change the frame thickness slightly.
 
 ## Other files
 

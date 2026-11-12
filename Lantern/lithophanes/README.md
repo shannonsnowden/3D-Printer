@@ -2,6 +2,11 @@
 
 This folder is an OrcaSlicer **project template** for printing photo lithophanes that fit the lantern panel slots (77.5 × 105 mm) on a **Creality K1 Max** with a **0.4 mm nozzle**.
 
+![Photo lithophanes lit in the lantern](../photos/lantern_dog_lithophanes_lit.jpg)
+
+*Photo lithophanes lit in the lantern.*
+
+
 ## How to use the template
 
 1. Open `orcaslicer-lithophane-settings.3mf` in OrcaSlicer.
@@ -31,5 +36,5 @@ Official OrcaSlicer process profiles spell the printer as `K1Max` (no space) in 
 
 ## Notes
 
-- **Physical fit in the lantern is untested.** Confirm the first panel slides into a 78 mm slot before printing more. Do not force it.
+- The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 - Printing **vertically** can give a sharper image, but the frame may come out about 0.05–0.1 mm thicker, which can affect fit. The recommended orientation is flat, back down.

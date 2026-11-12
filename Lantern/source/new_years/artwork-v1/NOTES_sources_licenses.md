@@ -1,5 +1,5 @@
 # New Year's lantern panels v1: IMAGES FOR APPROVAL, NO STL
-These are 2D artwork only. No STL, SCAD, 3MF, G-code, repo change, archive or upload was made. Physical fit and printing are untested. The backlighting is simulated: each colour simply stands for a thickness.
+These are 2D artwork only. The backlighting is simulated: each colour simply stands for a thickness. The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 
 ## Final motifs (no year number anywhere)
 1. **Fireworks:** three radial bursts. The large one is at the top centre, with a smaller one lower left and lower right.

@@ -1,5 +1,5 @@
 # Fourth of July lantern panels v2: IMAGES FOR APPROVAL, NO STL
-These are 2D artwork only. No STL, CAD, repo change, ZIP, cloud agent, upload, print or contact. The backlighting is simulated, with each colour simply standing for a thickness. Physical fit is untested.
+These are 2D artwork only. The backlighting is simulated, with each colour simply standing for a thickness. The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 
 Started on Shannon's "go ahead" (Nov 10, 2026, 5:02 PM ET). This v2 follows Shannon's v1 feedback (5:08 PM ET): "the stars on the flag should be 50". The v1 folder and every earlier holiday folder are unchanged.
 
