@@ -29,6 +29,13 @@ Battery LED tea light only.
 Each holiday folder (except Thanksgiving) also has a `*_backlit_SIMULATED_4up.png` preview.
 It is a simulation from the STL thickness, not a photo of a print.
 
+
+## Photo lithophanes
+
+Photo lithophane panels use the same **77.5 × 105 mm** lantern slots. An OrcaSlicer print-settings template is in [`lithophanes/`](lithophanes/README.md). Open `orcaslicer-lithophane-settings.3mf`, delete the placeholder object if there is one, import a lithophane `.stl`, lay it flat with the back down, and slice with the project / Global settings.
+
+Physical fit of the photo lithophanes is untested. Printing vertically can improve image quality but may change the frame thickness slightly.
+
 ## Other files
 
 - `source/lantern.scad` — lantern OpenSCAD source.
@@ -37,3 +44,4 @@ It is a simulation from the STL thickness, not a photo of a print.
   and `NOTES_sources_licenses.md` (all third-party references are CC0 / Public Domain).
 - `SHA256SUMS` — checksums for the panel files.
 - Base, roof and `.3mf` project files at this level are from the original import (PR #1), unchanged.
+- [`lithophanes/`](lithophanes/README.md) — OrcaSlicer lithophane print-settings template (`orcaslicer-lithophane-settings.3mf`).

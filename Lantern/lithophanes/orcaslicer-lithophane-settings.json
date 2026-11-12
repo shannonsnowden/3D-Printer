@@ -1,0 +1,75 @@
+{
+  "description": "OrcaSlicer lithophane print-settings template for a Creality K1 Max (0.4 mm nozzle). Open orcaslicer-lithophane-settings.3mf in OrcaSlicer, delete the placeholder object, import a lithophane STL, leave it flat with the back down, and slice with the project/Global settings.",
+  "slicer": "OrcaSlicer",
+  "base_process_profile": "0.20mm Standard @Creality K1Max (0.4 nozzle)",
+  "custom_process_name": "Lithophane 0.12mm @Creality K1Max (0.4 nozzle)",
+  "printer": "Creality K1 Max (0.4 nozzle)",
+  "filament": "Generic PLA @Creality",
+  "orientation": "Print flat with the back down (relief facing up).",
+  "notes": [
+    "Official OrcaSlicer process profiles spell the printer as 'K1Max' (no space) in the process name, and 'K1 Max' in the printer name.",
+    "Physical fit of photo lithophanes in the lantern is untested.",
+    "Printing vertically can give a better-looking image but may change the frame thickness by about 0.05\u20130.1 mm.",
+    "Complete flattened project settings are stored inside the 3MF at Metadata/project_settings.config."
+  ],
+  "overrides": {
+    "layer_height": "0.12",
+    "initial_layer_print_height": "0.2",
+    "wall_generator": "arachne",
+    "wall_loops": "6",
+    "top_shell_layers": "0",
+    "bottom_shell_layers": "0",
+    "top_shell_thickness": "0",
+    "bottom_shell_thickness": "0",
+    "sparse_infill_density": "100%",
+    "sparse_infill_pattern": "rectilinear",
+    "outer_wall_speed": [
+      "50"
+    ],
+    "inner_wall_speed": [
+      "80"
+    ],
+    "sparse_infill_speed": [
+      "80"
+    ],
+    "internal_solid_infill_speed": [
+      "80"
+    ],
+    "initial_layer_speed": [
+      "30"
+    ],
+    "initial_layer_infill_speed": [
+      "30"
+    ],
+    "default_acceleration": [
+      "3000"
+    ],
+    "enable_support": "0",
+    "brim_type": "no_brim",
+    "nozzle_temperature": [
+      "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+      "210"
+    ],
+    "hot_plate_temp": [
+      "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+      "60"
+    ],
+    "fan_min_speed": [
+      "100"
+    ],
+    "fan_max_speed": [
+      "100"
+    ]
+  },
+  "units": {
+    "speeds": "mm/s",
+    "accelerations": "mm/s^2",
+    "temperatures": "C",
+    "layer_heights": "mm",
+    "fan": "percent"
+  }
+}
