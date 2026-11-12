@@ -42,4 +42,4 @@ These are 2D artwork only. The backlighting is simulated: each colour simply sta
 - Sparkle tips and firework ray tips taper to rounded points. The narrowest dark features are about 0.9 mm, and the amber sparkle centres about 0.6 mm. Smallest dots: amber clock minute dots about 1.1 mm across, and firework spark dots about 1.2–1.4 mm.
 - Amber areas are either inset into dark shapes or stand alone on the 0.7 mm cream backing. Everything sits on a continuous backing sheet, with no through-holes.
 - The cream bubbles in the champagne are 0.7 mm windows in the 1.1 mm amber area.
-- These are images only. Nothing in them shows that the panels have been fit- or print-tested.
+- These are images only (simulated backlighting, not a photo of a print). The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).

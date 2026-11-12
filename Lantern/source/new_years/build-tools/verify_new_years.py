@@ -141,7 +141,8 @@ def four_up(images: dict[str, Image.Image], palette: dict, title: str, subtitle:
     font_b = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 32)
     font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 20)
     draw.text((margin, 24), title, fill=palette["ink"], font=font_b)
-    draw.text((margin, 70), subtitle, fill=palette["ink"], font=font)
+    for i, line in enumerate(subtitle.split("\n")):
+        draw.text((margin, 70 + i * 20), line, fill=palette["ink"], font=font)
     origin_y = margin + title_h
     for index, key in enumerate(keys):
         image = images[key]
@@ -159,7 +160,7 @@ def main() -> None:
     PREVIEW.mkdir(parents=True, exist_ok=True)
     report = {
         "approval": "Shannon approved New Year's v1 on 2026-11-09 at 4:04 PM ET",
-        "physical_fit": "NOT_TESTED",
+        "physical_fit": "The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).",
         "raw_export": "The boolean meshes were watertight before STL export, and the STL files reloaded watertight without a second weld.",
         "edge_note": "Mismatch on kept artwork pixels is confined to a 2 px band on class boundaries. Amber components under 12 px are anti-aliased edge snaps and were not extruded. This is not exact pixel identity.",
         "panels": {},
@@ -186,7 +187,7 @@ def main() -> None:
         backlit_images,
         BACKLIT,
         "New Year's panels — SIMULATED backlighting",
-        "Not a photograph. Cream 0.7 mm, amber 1.1 mm, dark 1.8 mm. Physical fit UNTESTED.",
+        "Not a photograph. Cream 0.7 mm, amber 1.1 mm, dark 1.8 mm.\nThe 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).",
         PREVIEW / "new_years_panels_backlit_SIMULATED_4up.png",
     )
     dest = ROOT / "holidays" / "new_years" / "verification" / "v1_mesh_match.json"

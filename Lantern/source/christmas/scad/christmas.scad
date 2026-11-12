@@ -4,7 +4,7 @@
 // The shipped tree and wreath STLs are frozen. The shipped snowman and
 // reindeer STLs are the v6 meshes from tools/build_v6_panels.py, traced
 // from the approved images. Do not overwrite them from this file.
-// Graphics approved 9 Nov 2026, 1:23 PM ET. Physical fit is not tested.
+// Graphics approved 9 Nov 2026, 1:23 PM ET. The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).
 
 include <panel_lib.scad>
 

@@ -180,7 +180,7 @@ def four_up(mode: str, ppm: float, dest: Path) -> None:
     if mode == "backlit":
         draw.text(
             (margin, 124),
-            "SIMULATED illumination, not a photo. Approved 9 Nov 2026. Physical fit has not been tested.",
+            "SIMULATED illumination, not a photo. Approved 9 Nov 2026. The 77.5 × 105 × 1.8 mm panels have been printed and fit the lantern well (confirmed by Shannon, Nov 2026).",
             fill=palette["ink"],
             font=font(22),
         )
